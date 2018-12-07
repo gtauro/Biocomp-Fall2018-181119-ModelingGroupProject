@@ -13,6 +13,7 @@
 # PART 1B
 # SIMULATE DYNAMICS USING LV MODEL
 
+library(tidyr) # Includes tidyr library for piping functions
 library(deSolve)  # Includes deSolve library for ode functions
 library(ggplot2)  # Includes ggplot2 library for graphing functions
 
